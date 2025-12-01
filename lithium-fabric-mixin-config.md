@@ -639,11 +639,11 @@ BlockEntity sleeping for inactive brewing stands
 BlockEntity sleeping for inactive campfires
   
 ### `mixin.world.block_entity_ticking.sleeping.campfire.lit`
-(default: `true`)  
+(default: `false`)  
 BlockEntity sleeping for inactive lit campfires
   
 ### `mixin.world.block_entity_ticking.sleeping.campfire.unlit`
-(default: `true`)  
+(default: `false`)  
 BlockEntity sleeping for inactive unlit campfires
   
 ### `mixin.world.block_entity_ticking.sleeping.chest_animation`
